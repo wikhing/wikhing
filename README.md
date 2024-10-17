@@ -1,4 +1,5 @@
 ## Hi there 👋
+🌱 I’m currently studying at University of Malaya on the course Software Engineering
 
 <!--
 **wikhing/wikhing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
